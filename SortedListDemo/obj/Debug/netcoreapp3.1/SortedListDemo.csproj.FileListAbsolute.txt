@@ -1,0 +1,13 @@
+C:\Users\Admin\Desktop\Codegym\Net\SortedListDemo\bin\Debug\netcoreapp3.1\SortedListDemo.exe
+C:\Users\Admin\Desktop\Codegym\Net\SortedListDemo\bin\Debug\netcoreapp3.1\SortedListDemo.deps.json
+C:\Users\Admin\Desktop\Codegym\Net\SortedListDemo\bin\Debug\netcoreapp3.1\SortedListDemo.runtimeconfig.json
+C:\Users\Admin\Desktop\Codegym\Net\SortedListDemo\bin\Debug\netcoreapp3.1\SortedListDemo.runtimeconfig.dev.json
+C:\Users\Admin\Desktop\Codegym\Net\SortedListDemo\bin\Debug\netcoreapp3.1\SortedListDemo.dll
+C:\Users\Admin\Desktop\Codegym\Net\SortedListDemo\bin\Debug\netcoreapp3.1\SortedListDemo.pdb
+C:\Users\Admin\Desktop\Codegym\Net\SortedListDemo\obj\Debug\netcoreapp3.1\SortedListDemo.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\Codegym\Net\SortedListDemo\obj\Debug\netcoreapp3.1\SortedListDemo.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\Codegym\Net\SortedListDemo\obj\Debug\netcoreapp3.1\SortedListDemo.AssemblyInfo.cs
+C:\Users\Admin\Desktop\Codegym\Net\SortedListDemo\obj\Debug\netcoreapp3.1\SortedListDemo.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Codegym\Net\SortedListDemo\obj\Debug\netcoreapp3.1\SortedListDemo.dll
+C:\Users\Admin\Desktop\Codegym\Net\SortedListDemo\obj\Debug\netcoreapp3.1\SortedListDemo.pdb
+C:\Users\Admin\Desktop\Codegym\Net\SortedListDemo\obj\Debug\netcoreapp3.1\SortedListDemo.genruntimeconfig.cache
