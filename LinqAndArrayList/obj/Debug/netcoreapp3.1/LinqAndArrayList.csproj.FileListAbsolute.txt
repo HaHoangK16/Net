@@ -1,0 +1,13 @@
+C:\Users\Admin\Desktop\Codegym\Net\LinqAndArrayList\bin\Debug\netcoreapp3.1\LinqAndArrayList.exe
+C:\Users\Admin\Desktop\Codegym\Net\LinqAndArrayList\bin\Debug\netcoreapp3.1\LinqAndArrayList.deps.json
+C:\Users\Admin\Desktop\Codegym\Net\LinqAndArrayList\bin\Debug\netcoreapp3.1\LinqAndArrayList.runtimeconfig.json
+C:\Users\Admin\Desktop\Codegym\Net\LinqAndArrayList\bin\Debug\netcoreapp3.1\LinqAndArrayList.runtimeconfig.dev.json
+C:\Users\Admin\Desktop\Codegym\Net\LinqAndArrayList\bin\Debug\netcoreapp3.1\LinqAndArrayList.dll
+C:\Users\Admin\Desktop\Codegym\Net\LinqAndArrayList\bin\Debug\netcoreapp3.1\LinqAndArrayList.pdb
+C:\Users\Admin\Desktop\Codegym\Net\LinqAndArrayList\obj\Debug\netcoreapp3.1\LinqAndArrayList.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\Codegym\Net\LinqAndArrayList\obj\Debug\netcoreapp3.1\LinqAndArrayList.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\Codegym\Net\LinqAndArrayList\obj\Debug\netcoreapp3.1\LinqAndArrayList.AssemblyInfo.cs
+C:\Users\Admin\Desktop\Codegym\Net\LinqAndArrayList\obj\Debug\netcoreapp3.1\LinqAndArrayList.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Codegym\Net\LinqAndArrayList\obj\Debug\netcoreapp3.1\LinqAndArrayList.dll
+C:\Users\Admin\Desktop\Codegym\Net\LinqAndArrayList\obj\Debug\netcoreapp3.1\LinqAndArrayList.pdb
+C:\Users\Admin\Desktop\Codegym\Net\LinqAndArrayList\obj\Debug\netcoreapp3.1\LinqAndArrayList.genruntimeconfig.cache
