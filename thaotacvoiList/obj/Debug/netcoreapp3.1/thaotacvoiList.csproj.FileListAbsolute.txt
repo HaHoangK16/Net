@@ -1,0 +1,13 @@
+C:\Users\Admin\Desktop\Codegym\Net\thaotacvoiList\bin\Debug\netcoreapp3.1\thaotacvoiList.exe
+C:\Users\Admin\Desktop\Codegym\Net\thaotacvoiList\bin\Debug\netcoreapp3.1\thaotacvoiList.deps.json
+C:\Users\Admin\Desktop\Codegym\Net\thaotacvoiList\bin\Debug\netcoreapp3.1\thaotacvoiList.runtimeconfig.json
+C:\Users\Admin\Desktop\Codegym\Net\thaotacvoiList\bin\Debug\netcoreapp3.1\thaotacvoiList.runtimeconfig.dev.json
+C:\Users\Admin\Desktop\Codegym\Net\thaotacvoiList\bin\Debug\netcoreapp3.1\thaotacvoiList.dll
+C:\Users\Admin\Desktop\Codegym\Net\thaotacvoiList\bin\Debug\netcoreapp3.1\thaotacvoiList.pdb
+C:\Users\Admin\Desktop\Codegym\Net\thaotacvoiList\obj\Debug\netcoreapp3.1\thaotacvoiList.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\Codegym\Net\thaotacvoiList\obj\Debug\netcoreapp3.1\thaotacvoiList.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\Codegym\Net\thaotacvoiList\obj\Debug\netcoreapp3.1\thaotacvoiList.AssemblyInfo.cs
+C:\Users\Admin\Desktop\Codegym\Net\thaotacvoiList\obj\Debug\netcoreapp3.1\thaotacvoiList.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Codegym\Net\thaotacvoiList\obj\Debug\netcoreapp3.1\thaotacvoiList.dll
+C:\Users\Admin\Desktop\Codegym\Net\thaotacvoiList\obj\Debug\netcoreapp3.1\thaotacvoiList.pdb
+C:\Users\Admin\Desktop\Codegym\Net\thaotacvoiList\obj\Debug\netcoreapp3.1\thaotacvoiList.genruntimeconfig.cache
